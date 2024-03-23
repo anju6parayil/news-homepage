@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+body{
+    font-family: "Inter";
+}
+.link{
+    color:hsl(236, 13%, 42%) ;
+}
+.new_articles{
+    background-color: hsl(240, 100%, 5%);
+}
+.heading{
+    color: hsl(35, 77%, 62%);
+}
+.article {
+    color:hsl(236, 13%, 42%) ;
+}
+.article a{
+    color: hsl(36, 100%, 99%);
+}
+.number{
+    color: hsl(233, 8%, 79%);
+}
+.new_article img{
+    max-width:100px;
+}
+.button{
+    color:  white;
+}
